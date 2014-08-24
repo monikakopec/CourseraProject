@@ -1,3 +1,5 @@
+There are 180 observation of 68 variables.
+
 * Subject
   The group of 30 volunteers within an age bracket of 19-48 years. The values are 1-30.
 * Activity
@@ -140,3 +142,6 @@
   Mean of Fast Fourier Transform applied to magnitude Jerk signals body gyroscope. The values are from -1 to 1.
 * FFTBodyBody_Gyroscope_Jerk_Magnitude_StandardDev
   Standard deviation of Fast Fourier Transform applied to magnitude Jerk signals body gyroscope. The values are from -1 to 1.
+
+
+The variables "Subject" and "Activity" are integer and the others are numeric.
