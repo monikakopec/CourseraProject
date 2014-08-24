@@ -2,12 +2,12 @@
   The group of 30 volunteers within an age bracket of 19-48 years. The values are 1-30.
 * Activity
   Number of activities:
-  1 - walking
-  2 - walking upstairs
-  3 - walking downstairs
-  4 - sitting
-  5 - standing
-  6 - laying
+  1 - walking,
+  2 - walking upstairs,
+  3 - walking downstairs,
+  4 - sitting,
+  5 - standing,
+  6 - laying.
 * Body_Acceleration_MeanX
   Mean of body acceleration of axis X. The values are from 0 to 1.
 * Body_Acceleration_MeanY  
